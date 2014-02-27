@@ -1,0 +1,5 @@
+flask-errormail (0.2.2-1) smurf; urgency=low
+
+  * source package automatically created by stdeb 0.6.0+git
+
+ -- Jason Wyatt Feinstein <jason.feinstein@gmail.com>  Thu, 27 Feb 2014 23:29:29 +0100

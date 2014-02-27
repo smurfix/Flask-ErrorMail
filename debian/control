@@ -1,0 +1,27 @@
+Source: flask-errormail
+Maintainer: Jason Wyatt Feinstein <jason.feinstein@gmail.com>
+Section: python
+Priority: optional
+Build-Depends: python-setuptools (>= 0.6b3), python-all (>= 2.6.6-3), debhelper (>= 7)
+Standards-Version: 3.9.1
+
+Package: python-flask-errormail
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}
+Description: Flask extension for sending administrators e-mails with stac
+ .
+ Flask-ErrorMail
+ ----------
+ .
+ A Flask extension to automatically send stacktrace error e-mails to site 
+ administrators when 500 errors occur.
+ .
+ Please refer to the online documentation for details.
+ .
+ Links
+ `````
+ .
+ * `documentation <http://packages.python.org/Flask-ErrorMail>`_
+ * `development version
+   <https://github.com/jasonwyatt/Flask-ErrorMail/tarball/master>`_
+ .
